@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: Felidsche
 gitlab_username: # your GitLab user name
-twitter_username: Felidschee
+twitter_username: # Felidschee
 mastodon_username: mastodon.social/@felidsche
 linkedin_username: felix-jan-schneider
 telegram_username: # your Telegram user name
@@ -242,7 +242,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

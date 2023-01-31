@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.dbsystel.de'>DB</a>. Software Egineering. Politics. Outdoor. Etc.
+subtitle: <a href='www.dbsystel.de'>DB Systel GmbH</a>. Software Egineering. Politics. Outdoor. Etc.
 
 profile:
   align: right
