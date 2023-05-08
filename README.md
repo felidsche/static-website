@@ -11,4 +11,5 @@
 `bundle exec jekyll serve`
 
 ## Deployment
-- `git push` to this repository
+- `bundle exec jekyll build --lsi`
+- which will (re-)generate the static webpage in the _site/ folder. Then simply copy the contents of the _site/ directory to your hosting server.
