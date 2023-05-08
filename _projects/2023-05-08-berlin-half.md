@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Berlin Half 2023
+description: my second half marathon after the first in 2019
+img: assets/img/7.jpg
+redirect: https://www.generali-berliner-halbmarathon.de/
+importance: 3
+category: endurance sports
 ---
 
 Every project has a beautiful feature showcase page.

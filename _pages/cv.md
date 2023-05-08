@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-# cv_pdf: cv-felix-jan-schneider.pdf
+cv_pdf: cv-felix-jan-schneider.pdf
 ---

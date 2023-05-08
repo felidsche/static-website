@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Berlin Triathlon 2023
+description: My first Triathlon
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://berlin-triathlon.de/
 importance: 3
-category: work
+category: endurance sports
 ---
 
 Every project has a beautiful feature showcase page.

@@ -17,7 +17,7 @@
       description:
         - Big Data Systems
         - Machine Learning
-    - title:  Semester abroad
+    - title:  Business Administration (B.A.)
       institution: Tongji University (SEM), Shanghai, China
       year: 2018
       description:
@@ -30,7 +30,7 @@
         - Database Systems
         - Software Engineering
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Data Engineer
@@ -46,21 +46,24 @@
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Certificates
   type: time_table
   contents:
-    - year: 2018
+    - year: 2020
       items: 
-        - DAAD Promos Scholarship
+        - ITIL® Foundation Certificate in IT Service Management
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Distributed Dataflow Systems
+    - title: Cloud Computing
       items: 
-        - Fault Tolerance Optimization
+        - Renewable-aware load-shifting
+    - title: Big Data Systems
+      items: 
+        - Data Stream Processing
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Interests:</u> Politics, Outdoor, etc.
+    - <u>Interests:</u> Activism, Endurance Sports, etc.
