@@ -11,8 +11,13 @@ Published: 05.07.2023
 
 Last modified: 05.07.2023
 
-## Table of contents
+## Content
 1. [Motivation](#motivation)
+2. [Preparation](#preparation)
+3. [Race day](#race)
+4. [The results](#results)
+5. [Things I learned](#learnings)
+6. [What's next?](#outlook)
 
 ## Motivation <a name="motivation"></a>
 *"Why on earth would you want to do a Triathlon?"*
@@ -33,13 +38,13 @@ I used to be a member of a swimming club as a child, so I wanted to keep up from
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/berlin-tri/swimming-pool-fischerinsel.jpg" title="Swimming Pool at Fischerinsel" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/berlin-tri/aventon-cordoba.JPG" title="Aventon Cordoba 2021 at Tempelhofer Feld" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/berlin-tri/berlin-half-finishline.PNG" title="Berliner Halbmarathon finishline image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -60,7 +65,7 @@ Also, as Berlin is the city I live in, it's close and I don't have to travel for
   So I paid the fee and signed up on the 22nd of November, 2022.
 
 
-## Preparation
+## Preparation <a name="preparation"></a>
 
 From this day on I knew that I had to prepare to manage this. I was especially concerned with the swimming part. It later turned out that most of the first-timer athletes had the same concern.
 
@@ -77,10 +82,10 @@ During my preparation and research into Triathlon, I sensed that this sport is h
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/berlin-tri/berlin-tri-dry-run.JPG" title="Berlin Triathlon dry run" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/berlin-tri/berlin-tri-race-setup.JPG" title="Race setup" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -88,7 +93,7 @@ During my preparation and research into Triathlon, I sensed that this sport is h
 </div>
 
 
-## Race day
+## Race day <a name="race"></a>
 The final day has come. Let's see if the preparation was sufficient.
 ### Swim
 Surprisingly, the water was not as cold as I expected. I tried to swim as close to the shore of the island as possible to reduce the length of the swim. However, the main challenge was to not get kicked by one of the other 300 athletes and remain swimming in the correct direction. This is very challenging when swimming freestyle with a bad sight in the water. 
@@ -100,13 +105,13 @@ My strategy for the run was to keep the pace at 6'00"/KM, which is a tad faster 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/berlin-tri/berlin-tri-swim.PNG" title="Swim" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/berlin-tri/berlin-tri-bike-split.JPG" title="Bike" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/berlin-tri/berlin-tri-changing-zone.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -114,7 +119,7 @@ My strategy for the run was to keep the pace at 6'00"/KM, which is a tad faster 
 </div>
 
 
-## The results
+## The results <a name="results"></a>
 
 Finally, I placed **17th in my age group TM25** and 119th out of 316 athletes overall. My finish time was 1:23:06 with a lag of 0:22:58 to the winner. 
 My swim split was 19:40, and I took 0:43:56 on the bike. Swimming and biking together took me 1:03:36. At this point, the winner in my age group already crossed the finish line. Mad respect! I finished off with a 19:30 run. I'm really happy with my effort and hope to be back stronger and faster next year.
@@ -130,17 +135,17 @@ Thanks to [Berlin Timing](https://www.berlin-timing.de/Berlin-Triathlon) for pro
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/berlin-tri/berlin-tri-finish-line.JPG" title="Crossing the finish line at Berlin Triathlon" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Crossing the finish line at Berlin Triathlon 2023.
 </div>
 
-## Things I learned
+## Things I learned <a name="learnings"></a>
 For swimming, the main challenge was to keep the right direction, mind the currents, remain calm, and try not to get kicked by other athletes. This is why I will practice open-water swimming next time. Also, in 19°C water temperature deciding against a wetsuit was the correct decision for me. The Spree River felt way nicer than I imagined.
 This might be a no-brainer but biking in the wind shadow made a huge difference. During the run, it made a huge difference for me to run with someone else. This way I could push myself to a faster pace.
 Finally, I have to admit that I think I'm not a sprinter. I guess a longer distance with less tension would've suited me better.
 
-## What's next?
+## What's next? <a name="outlook"></a>
 I loved the racing experience. So it will not have been my last triathlon race. I plan to start at Berlin Triathlon in 2024. Hopefully, there will be no more motorcycles on the racing track. I'd also like to try out another Triathlon apart from Berlin. I'm tempted to try the [Allgäu Triathlon](https://www.allgaeu-triathlon.de/main-programm/) to experience the *"Kult"* factor in the superb surrounding mountain panorama. Most importantly, I'll not start again in the Sprint distance. For my next Triathlon, I will start at the Olympic distance, which is roughly double the distance.
