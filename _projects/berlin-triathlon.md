@@ -2,7 +2,7 @@
 layout: page
 title: Berlin Triathlon 2023
 description: My Triathlon debut in my city of living
-img: assets/img/7.jpg
+img: assets/img/berlin-tri/berlin-tri-bike-split.JPG
 importance: 3
 category: endurance sports
 ---
@@ -88,9 +88,6 @@ During my preparation and research into Triathlon, I sensed that this sport is h
         {% include figure.html path="assets/img/berlin-tri/berlin-tri-race-setup.JPG" title="Race setup" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
 
 ## Race day <a name="race"></a>
@@ -113,9 +110,6 @@ My strategy for the run was to keep the pace at 6'00"/KM, which is a tad faster 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/berlin-tri/berlin-tri-changing-zone.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 
 
