@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How to install and build your own website using Jekyll
+title: How to install and build your own static website using Jekyll
 date: 2023-01-31 19:00:00-0000
-description: How to deploy a Jekyll website for Ruby newbies
+description: How to deploy a Jekyll static website for Ruby newbies
 categories: blog-posts
 tags: engineering
 giscus_comments: true
