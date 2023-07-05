@@ -1,5 +1,6 @@
 # My personal website
 - `*.md` files are editable and `*.html` files are generated
+- forked from [al-folio](https://github.com/alshedivat/al-folio)
 ## Structure
 - `_config.yml`
   - the main config file
