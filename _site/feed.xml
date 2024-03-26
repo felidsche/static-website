@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-29T14:17:52+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>Data Engineering. Activism. Endurance Sports.
+</subtitle><entry><title type="html">How to install and build your own static website using Jekyll</title><link href="http://localhost:4000/blog/2023/jekyll-static-webiste/" rel="alternate" type="text/html" title="How to install and build your own static website using Jekyll" /><published>2023-01-31T20:00:00+01:00</published><updated>2023-01-31T20:00:00+01:00</updated><id>http://localhost:4000/blog/2023/jekyll-static-webiste</id><content type="html" xml:base="http://localhost:4000/blog/2023/jekyll-static-webiste/"><![CDATA[<p>This guide walks you through creating your own website (much like this one) using <code class="language-plaintext highlighter-rouge">ruby</code>, the <code class="language-plaintext highlighter-rouge">Jekyll</code> framework and the <code class="language-plaintext highlighter-rouge">al-folio</code> theme. Enjoy!</p>
+
+<ul>
+  <li>OS: Ubuntu 22.04.1 LTS</li>
+</ul>
+
+<h4 id="update-the-apt-package-manager">Update the apt package manager</h4>
+<p><code class="language-plaintext highlighter-rouge">sudo apt update &amp;&amp; upgrade -y</code></p>
+<h4 id="install-a-ruby-version-manager-for-this-project">Install a Ruby version manager for this project</h4>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install rbenv
+rbenv init
+</code></pre></div></div>
+<h4 id="reload-or-restart-the-shell">reload or restart the shell</h4>
+<p><code class="language-plaintext highlighter-rouge">source ~/.bashrc</code> on ubuntu or <code class="language-plaintext highlighter-rouge">source ~/.zshrc</code> on Mac OS</p>
+
+<h4 id="install-ruby-build-for-a-simplified-ruby-installation-as-an-rbenv-plugin">install <code class="language-plaintext highlighter-rouge">ruby-build</code> for a simplified ruby installation as an <code class="language-plaintext highlighter-rouge">rbenv</code> plugin</h4>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build
+git -C "$(rbenv root)"/plugins/ruby-build pull
+</code></pre></div></div>
+<h4 id="install-your-prefered-ruby-version-i-used-312">install your prefered Ruby version (I used <code class="language-plaintext highlighter-rouge">3.1.2</code>):</h4>
+<p><code class="language-plaintext highlighter-rouge">rbenv install X.X.X</code></p>
+<h4 id="set-a-ruby-version-to-finish-and-start-using-ruby">Set a Ruby version to finish and start using Ruby</h4>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rbenv global 3.1.2   # set the default Ruby version for this machine
+# or:
+rbenv local 3.1.2    # set the Ruby version for this directory
+</code></pre></div></div>
+<h4 id="install-the-bundler-gem">Install the <code class="language-plaintext highlighter-rouge">bundler</code> gem</h4>
+<p><code class="language-plaintext highlighter-rouge">gem install bundler</code></p>
+<h4 id="fork-the-jekyll-theme-from-githubcomalshedivatal-folio-to-githubcom">Fork the Jekyll theme from github.com:alshedivat/al-folio to github.com:<your-username>/<your-username.github.io></your-username.github.io></your-username></h4>
+<h4 id="build-your-theme">build your theme</h4>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd &lt;your-repo-name&gt;
+bundle install
+bundle exec jekyll serve
+</code></pre></div></div>
+<h4 id="customize-the-theme-eg-using-vs-code">Customize the theme (e.g. using VS Code)</h4>
+<p><code class="language-plaintext highlighter-rouge">code .</code></p>
+<ul>
+  <li>Tip: You can navigate to http://127.0.0.1:4000/al-folio/ to see your portfolio. Refresh to see changes.</li>
+</ul>
+
+<h4 id="sources">Sources</h4>
+<ol>
+  <li><a href="https://github.com/rbenv/rbenv/#readme">rbenv README</a></li>
+  <li><a href="https://github.com/rbenv/ruby-build#readme">ruby-build README</a></li>
+  <li><a href="https://github.com/alshedivat/al-folio#readme">al-folio README</a></li>
+</ol>]]></content><author><name></name></author><category term="blog-posts" /><category term="engineering" /><summary type="html"><![CDATA[How to deploy a Jekyll static website for Ruby newbies]]></summary></entry></feed>
